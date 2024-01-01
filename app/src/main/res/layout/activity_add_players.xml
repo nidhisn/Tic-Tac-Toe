@@ -71,13 +71,6 @@
                 android:textSize="18dp"
                 app:cornerRadius ="20dp"/>
 
-
-
-
-
-
-
-
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
