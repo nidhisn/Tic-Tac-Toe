@@ -15,7 +15,6 @@
 -->
 
 
-<br>
 
 
 <!-- Logo Section  --> <!-- Required -->
@@ -64,6 +63,10 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 
 
 ## Demo<!-- Required -->
+<div align="center">
+<img src="C:\Users\nidhi\Pictures\Screenshots\Screenshot 2024-01-02 123519.png"  alt="Typing SVG">
+</div>
+
 <!-- 
 * You can add a demo here GH supports images/ GIFs/videos 
 * 
