@@ -39,7 +39,7 @@
 </div>
 
 
-## About<!-- Required -->
+## About<!-- Required -->This Android application implements the classic game of Tic Tac Toe, allowing two players to engage in a fun and strategic gaming experience.
 <!-- 
 * information about the project 
 * 
@@ -79,8 +79,7 @@
 <dev align="center">
 <table align="center">
         <tr>
-            <td><a href="#about">About
-            This Android application implements the classic game of Tic Tac Toe, allowing two players to engage in a fun and strategic gaming experience.</a></td>        
+            <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>
             <td><a href="#demo">Demo</a></td>
             <td><a href="#project-roadmap--">Project Roadmap</a></td>
