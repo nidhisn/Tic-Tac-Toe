@@ -48,7 +48,11 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 -->
 
 
-## How to use this project<!-- Required -->
+## How to play<!-- Required -->
+1. Launch the App: Open the app on an Android device or emulator.
+2. Enter Player Names: Enter the names of the two players to personalize the gaming session.
+3. Start Playing: Take turns to mark 'X' or 'O' on the grid until one player wins or the game results in a draw.
+
 <!-- 
 * Here you may add information about how 
 * 
