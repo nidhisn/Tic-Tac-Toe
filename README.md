@@ -86,16 +86,12 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
         <tr>
             <td><a href="#about">About</a></td>        
             <td><a href="#how-to-use-this-project">Getting started</td>
-            <td><a href="#demo">Demo</a></td>
-            <td><a href="#project-roadmap--">Project Roadmap</a></td>
-            <td><a href="#documentation">Documentation</a></td>
+            <td><a href="#demo">Demo</a></td> 
         </tr>
         <tr>
-            <td><a href="#contributors">Contributors</a></td>
+            <td><a href="#project-roadmap--">Technologies Used</a></td>
             <td><a href="#acknowledgments">Acknowledgments</a></td>
-            <td><a href="#feedback">Feedback</a></td>
-            <td><a href="#contact">Contact</a></td>
-            <td><a href="#license">License</a></td>
+            <td><a href="#documentation">Documentation</a></td> 
         </tr>
 </table>
 </dev>
@@ -105,7 +101,11 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
 
-## Project Roadmap <!-- Optional --> <!-- add learning_Rs-->
+## Technologies Used<!-- Optional --> <!-- add learning_Rs-->
+Java: The app is developed primarily using Java programming language.
+Android Studio: Built within the Android Studio IDE, leveraging various Android SDK components.
+XML: Utilized for layout design and resource management.
+Binding and Activities: Implemented various activities and utilized data binding for efficient UI updates.
 <!-- 
 * Add this section in case the project has different phases
 * 
@@ -124,12 +124,7 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 -->
 
 
-## Contributors<!-- Required -->
-<!-- 
-* Without contribution we wouldn't have open source. 
-* 
-* Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
--->
+
 
 
 ## Acknowledgments<!-- Optional -->
@@ -144,27 +139,11 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
 
-## Feedback<!-- Required -->
-<!-- 
-* You can add contacts information like your email and social media account 
-* 
-* Also it's common to add some PR guidance.
--->
-
-## Contact<!-- Required -->
-<!-- 
-* add your email and contact info here
-* 
-* 
--->
 
 
-## License<!-- Optional -->
-<!-- 
-* Here you can add project license for copyrights and distribution 
-* 
-* check this website for an easy reference https://choosealicense.com/)
--->
+
+
+
 
 
 <!-- - Use this html element to create a back to top button. -->
