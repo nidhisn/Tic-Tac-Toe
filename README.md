@@ -39,7 +39,8 @@
 </div>
 
 
-## About<!-- Required -->This Android application implements the classic game of Tic Tac Toe, allowing two players to engage in a fun and strategic gaming experience.
+## About<!-- Required -->
+This Android application implements the classic game of Tic Tac Toe, allowing two players to engage in a fun and strategic gaming experience.
 <!-- 
 * information about the project 
 * 
