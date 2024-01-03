@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/lavender"
+    android:background="@color/black_d"
     tools:context=".MainActivity">
 
   <LinearLayout
@@ -32,7 +32,7 @@
               android:textSize="20dp"
               android:gravity="center"
               android:textStyle="bold"
-              android:textColor="@color/lavender"
+              android:textColor="@color/black_d"
               android:maxLines="1"/>
           
           <ImageView
@@ -62,16 +62,16 @@
               android:textSize="20dp"
               android:gravity="center"
               android:textStyle="bold"
-              android:textColor="@color/lavender"
+              android:textColor="@color/black_d"
               android:maxLines="1"/>
 
           <ImageView
               android:layout_width="40dp"
-              android:layout_height="40dp"
-              android:src="@drawable/oimage"
+              android:layout_height="33dp"
+              android:layout_gravity="center"
               android:layout_marginTop="20dp"
               android:layout_marginBottom="20dp"
-              android:layout_gravity="center"/>
+              android:src="@drawable/oimage" />
       </LinearLayout>
   </LinearLayout>
     <LinearLayout
