@@ -16,9 +16,7 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 
 ## Demo<!-- Required -->
 
-![Screenshot 2024-01-02 123519](https://github.com/nidhisn/Tic-Tac-Toe/assets/99794956/dcd2f178-ffca-47e0-89a0-6d128d73c39b)
-![Screenshot 2024-01-02 123638](https://github.com/nidhisn/Tic-Tac-Toe/assets/99794956/3f8a18d5-d430-49f7-a691-1c8a4e9e4878)
-![Screenshot 2024-01-02 123708](https://github.com/nidhisn/Tic-Tac-Toe/assets/99794956/b7c264d5-e37a-44d8-83cf-db366cdbbb51)
+
 
 
 <!-- - Use this html element to create a back to top button. -->
