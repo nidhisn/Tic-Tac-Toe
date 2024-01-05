@@ -14,9 +14,8 @@ This Android application implements the classic game of Tic Tac Toe, allowing tw
 3. Start Playing: Take turns to mark 'X' or 'O' on the grid until one player wins or the game results in a draw.
 
 
-## Demo<!-- Required -->
 
-https://github.com/nidhisn/Tic-Tac-Toe/assets/99794956/7661cbc3-2f1e-4f0d-8002-4edb1bf1565a
+
 
 
 
