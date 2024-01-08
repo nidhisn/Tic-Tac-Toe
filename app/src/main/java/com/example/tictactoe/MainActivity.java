@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
             imageView.setImageResource(R.drawable.ximage);
 
             if(checkResults()) {
-                ResultDialog resultDialog = new ResultDialog(MainActivity.this, binding.playerOneName.getText().toString() + "is a winner!", MainActivity.this);
+                ResultDialog resultDialog = new ResultDialog(MainActivity.this, binding.playerOneName.getText().toString() + " is a winner!", MainActivity.this);
                 resultDialog.setCancelable(false);
                 resultDialog.show();
 
@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
             imageView.setImageResource(R.drawable.oimage);
 
             if(checkResults()) {
-                ResultDialog resultDialog = new ResultDialog(MainActivity.this, binding.playerTwoName.getText().toString() + "is a winner!", MainActivity.this);
+                ResultDialog resultDialog = new ResultDialog(MainActivity.this, binding.playerTwoName.getText().toString() + " is a winner!", MainActivity.this);
                 resultDialog.setCancelable(false);
                 resultDialog.show();
 
